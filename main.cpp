@@ -122,7 +122,7 @@ void greet() {
 }
 void showOptions() {
     cout << "Wybierz opcję: " << endl
-    << "1. Wygeneruj Labirynt oraz pokaż jak powstawał." << endl
+    << "1. Wygeneruj Labirynt." << endl
     << "2. Wyjdź z programu." << endl;
 }
 
