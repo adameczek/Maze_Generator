@@ -12,7 +12,7 @@ using namespace std;
 #include <cstdlib>
 #include <vector>
 #include <stack>
-
+#include <limits>
 
 int randomNumber(int min, int max) {
     int randNum = min + (rand() % static_cast<int>(max - min + 1));
